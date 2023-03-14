@@ -193,9 +193,9 @@ header {
 .details button {
   background-color: #ad343e;
   padding: 5px 25px;
-  color: white;
+  color: pink;
   font-size: 18px;
-  border: #333 1px solid;
+  border: red 1px solid;
   border-radius: 5px;
   display: block;
   margin: 0 auto;
@@ -209,11 +209,11 @@ header {
 }
 
 .search-params button:hover {
-  background-color: #122622;
+  background-color: antiquewhite;
 }
 
 .search-params button:active {
-  background-color: #5f1d22;
+  background-color: purple;
 }
 
 .search-params button:focus {
@@ -221,7 +221,7 @@ header {
 }
 
 #modal {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(123, 33, 98, 0.9);
   position: fixed;
   left: 0;
   right: 0;
